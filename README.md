@@ -1,3 +1,5 @@
+[![Follow on Twitter](https://img.shields.io/twitter/follow/websecurify.svg?logo=twitter)](https://twitter.com/websecurify)
+
 # grunt-git-pac-deploy
 
 > Grunt plugin to pac and deploy application via git.
